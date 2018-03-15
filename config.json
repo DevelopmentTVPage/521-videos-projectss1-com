@@ -1,0 +1,15 @@
+{
+    "title": "Project SS1",
+    "baseURL": "https:\/\/videos.projectss1.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1758904",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "projectss1.com"
+    }
+}
