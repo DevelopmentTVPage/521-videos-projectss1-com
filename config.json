@@ -13,7 +13,8 @@
         "cookiedomain": "projectss1.com",
         "player": {
             "playback": {
-                "autoplay": true
+                "autoplay": true,
+                "autonext": true
             }
         }
     }
