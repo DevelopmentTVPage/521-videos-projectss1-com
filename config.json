@@ -10,6 +10,11 @@
         "loginId": "1758904",
         "subfolder": "",
         "firstpartycookies": true,
-        "cookiedomain": "projectss1.com"
+        "cookiedomain": "projectss1.com",
+        "player": {
+            "playback": {
+                "autoplay": true
+            }
+        }
     }
 }
